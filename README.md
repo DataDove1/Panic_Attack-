@@ -2,9 +2,9 @@
 The purpose of this project is to see if panic severity across age group and within a population is determined by factors such as sleep hours, lifestyle behaviours, exercising, and medical history.
 
 ### Table of Content
--[Data Sources](Data-Sources)
+-[data sources](data-sources)
 
--[Dataset Summary](Dataset-Summary)
+-[dataset summary](dataset-summary)
 
 ### Data Sources
 The dataset used for this analysis is the "panic_attack_dataset.csv" which was from an online source.

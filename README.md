@@ -3,6 +3,7 @@ The purpose of this project is to see if panic severity across age group and wit
 
 ### Data Sources
 The dataset used for this analysis is the "panic_attack_dataset.csv" which was from an online source.
+The dataset contains 1200 row entries of values across different columns.
 
 ### Tools
 - Excel : Data Cleaning 
@@ -19,6 +20,22 @@ The dataset was explored to answer questions such as :
 5. Does lifestyle behaviour such as alcohol consumption affect panic attack frequency?
 
 ### Data Analysis
+
+```EXCEL```
+
+a. Null values were checked and removed.
+
+b. Data types were standadized across the columns.
+
+c. Outliers were checked and validated to be necessary or removed. 
+
+```POWERBI```
+
+
+a. DATA GROUPS: Age, Alcohol, Exercise, Caffeine, Smokers
+DAX
+
+
 
 ### Results/Findings
 
